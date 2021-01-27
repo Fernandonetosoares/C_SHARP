@@ -1,0 +1,13 @@
+C:\Users\maary\source\repos\C Sharp Variáveis\bin\Debug\netcoreapp3.1\C Sharp Variáveis.exe
+C:\Users\maary\source\repos\C Sharp Variáveis\bin\Debug\netcoreapp3.1\C Sharp Variáveis.deps.json
+C:\Users\maary\source\repos\C Sharp Variáveis\bin\Debug\netcoreapp3.1\C Sharp Variáveis.runtimeconfig.json
+C:\Users\maary\source\repos\C Sharp Variáveis\bin\Debug\netcoreapp3.1\C Sharp Variáveis.runtimeconfig.dev.json
+C:\Users\maary\source\repos\C Sharp Variáveis\bin\Debug\netcoreapp3.1\C Sharp Variáveis.dll
+C:\Users\maary\source\repos\C Sharp Variáveis\bin\Debug\netcoreapp3.1\C Sharp Variáveis.pdb
+C:\Users\maary\source\repos\C Sharp Variáveis\obj\Debug\netcoreapp3.1\C Sharp Variáveis.csprojAssemblyReference.cache
+C:\Users\maary\source\repos\C Sharp Variáveis\obj\Debug\netcoreapp3.1\C Sharp Variáveis.AssemblyInfoInputs.cache
+C:\Users\maary\source\repos\C Sharp Variáveis\obj\Debug\netcoreapp3.1\C Sharp Variáveis.AssemblyInfo.cs
+C:\Users\maary\source\repos\C Sharp Variáveis\obj\Debug\netcoreapp3.1\C Sharp Variáveis.csproj.CoreCompileInputs.cache
+C:\Users\maary\source\repos\C Sharp Variáveis\obj\Debug\netcoreapp3.1\C Sharp Variáveis.dll
+C:\Users\maary\source\repos\C Sharp Variáveis\obj\Debug\netcoreapp3.1\C Sharp Variáveis.pdb
+C:\Users\maary\source\repos\C Sharp Variáveis\obj\Debug\netcoreapp3.1\C Sharp Variáveis.genruntimeconfig.cache

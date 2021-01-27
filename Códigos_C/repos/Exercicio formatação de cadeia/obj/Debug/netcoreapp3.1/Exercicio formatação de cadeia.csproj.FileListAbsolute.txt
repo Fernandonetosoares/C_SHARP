@@ -1,0 +1,13 @@
+C:\Users\maary\source\repos\Exercicio formatação de cadeia\obj\Debug\netcoreapp3.1\Exercicio formatação de cadeia.csprojAssemblyReference.cache
+C:\Users\maary\source\repos\Exercicio formatação de cadeia\obj\Debug\netcoreapp3.1\Exercicio formatação de cadeia.AssemblyInfoInputs.cache
+C:\Users\maary\source\repos\Exercicio formatação de cadeia\obj\Debug\netcoreapp3.1\Exercicio formatação de cadeia.AssemblyInfo.cs
+C:\Users\maary\source\repos\Exercicio formatação de cadeia\obj\Debug\netcoreapp3.1\Exercicio formatação de cadeia.csproj.CoreCompileInputs.cache
+C:\Users\maary\source\repos\Exercicio formatação de cadeia\bin\Debug\netcoreapp3.1\Exercicio formatação de cadeia.exe
+C:\Users\maary\source\repos\Exercicio formatação de cadeia\bin\Debug\netcoreapp3.1\Exercicio formatação de cadeia.deps.json
+C:\Users\maary\source\repos\Exercicio formatação de cadeia\bin\Debug\netcoreapp3.1\Exercicio formatação de cadeia.runtimeconfig.json
+C:\Users\maary\source\repos\Exercicio formatação de cadeia\bin\Debug\netcoreapp3.1\Exercicio formatação de cadeia.runtimeconfig.dev.json
+C:\Users\maary\source\repos\Exercicio formatação de cadeia\bin\Debug\netcoreapp3.1\Exercicio formatação de cadeia.dll
+C:\Users\maary\source\repos\Exercicio formatação de cadeia\bin\Debug\netcoreapp3.1\Exercicio formatação de cadeia.pdb
+C:\Users\maary\source\repos\Exercicio formatação de cadeia\obj\Debug\netcoreapp3.1\Exercicio formatação de cadeia.dll
+C:\Users\maary\source\repos\Exercicio formatação de cadeia\obj\Debug\netcoreapp3.1\Exercicio formatação de cadeia.pdb
+C:\Users\maary\source\repos\Exercicio formatação de cadeia\obj\Debug\netcoreapp3.1\Exercicio formatação de cadeia.genruntimeconfig.cache

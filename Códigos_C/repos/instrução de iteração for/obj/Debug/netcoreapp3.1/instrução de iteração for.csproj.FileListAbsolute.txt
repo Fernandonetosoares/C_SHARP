@@ -1,0 +1,13 @@
+C:\Users\maary\source\repos\instrução de iteração for\bin\Debug\netcoreapp3.1\instrução de iteração for.exe
+C:\Users\maary\source\repos\instrução de iteração for\bin\Debug\netcoreapp3.1\instrução de iteração for.deps.json
+C:\Users\maary\source\repos\instrução de iteração for\bin\Debug\netcoreapp3.1\instrução de iteração for.runtimeconfig.json
+C:\Users\maary\source\repos\instrução de iteração for\bin\Debug\netcoreapp3.1\instrução de iteração for.runtimeconfig.dev.json
+C:\Users\maary\source\repos\instrução de iteração for\bin\Debug\netcoreapp3.1\instrução de iteração for.dll
+C:\Users\maary\source\repos\instrução de iteração for\bin\Debug\netcoreapp3.1\instrução de iteração for.pdb
+C:\Users\maary\source\repos\instrução de iteração for\obj\Debug\netcoreapp3.1\instrução de iteração for.csprojAssemblyReference.cache
+C:\Users\maary\source\repos\instrução de iteração for\obj\Debug\netcoreapp3.1\instrução de iteração for.AssemblyInfoInputs.cache
+C:\Users\maary\source\repos\instrução de iteração for\obj\Debug\netcoreapp3.1\instrução de iteração for.AssemblyInfo.cs
+C:\Users\maary\source\repos\instrução de iteração for\obj\Debug\netcoreapp3.1\instrução de iteração for.csproj.CoreCompileInputs.cache
+C:\Users\maary\source\repos\instrução de iteração for\obj\Debug\netcoreapp3.1\instrução de iteração for.dll
+C:\Users\maary\source\repos\instrução de iteração for\obj\Debug\netcoreapp3.1\instrução de iteração for.pdb
+C:\Users\maary\source\repos\instrução de iteração for\obj\Debug\netcoreapp3.1\instrução de iteração for.genruntimeconfig.cache

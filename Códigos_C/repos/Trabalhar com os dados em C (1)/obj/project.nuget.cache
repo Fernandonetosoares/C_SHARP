@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ep7YLGSAuzeNthwjxX74K4sjqHgk1d0oab0638hzYfHTjb/kKr1vP2FSTf+vSjBks//ZA5eVR9uBTxvXcUeu7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maary\\source\\repos\\Trabalhar com os dados em C (1)\\Trabalhar com os dados em C (1).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maary\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\maary\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

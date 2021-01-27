@@ -1,0 +1,13 @@
+C:\Users\maary\source\repos\Logica de Decisão IF AND ELSE\bin\Debug\netcoreapp3.1\Logica de Decisão IF AND ELSE.exe
+C:\Users\maary\source\repos\Logica de Decisão IF AND ELSE\bin\Debug\netcoreapp3.1\Logica de Decisão IF AND ELSE.deps.json
+C:\Users\maary\source\repos\Logica de Decisão IF AND ELSE\bin\Debug\netcoreapp3.1\Logica de Decisão IF AND ELSE.runtimeconfig.json
+C:\Users\maary\source\repos\Logica de Decisão IF AND ELSE\bin\Debug\netcoreapp3.1\Logica de Decisão IF AND ELSE.runtimeconfig.dev.json
+C:\Users\maary\source\repos\Logica de Decisão IF AND ELSE\bin\Debug\netcoreapp3.1\Logica de Decisão IF AND ELSE.dll
+C:\Users\maary\source\repos\Logica de Decisão IF AND ELSE\bin\Debug\netcoreapp3.1\Logica de Decisão IF AND ELSE.pdb
+C:\Users\maary\source\repos\Logica de Decisão IF AND ELSE\obj\Debug\netcoreapp3.1\Logica de Decisão IF AND ELSE.csprojAssemblyReference.cache
+C:\Users\maary\source\repos\Logica de Decisão IF AND ELSE\obj\Debug\netcoreapp3.1\Logica de Decisão IF AND ELSE.AssemblyInfoInputs.cache
+C:\Users\maary\source\repos\Logica de Decisão IF AND ELSE\obj\Debug\netcoreapp3.1\Logica de Decisão IF AND ELSE.AssemblyInfo.cs
+C:\Users\maary\source\repos\Logica de Decisão IF AND ELSE\obj\Debug\netcoreapp3.1\Logica de Decisão IF AND ELSE.csproj.CoreCompileInputs.cache
+C:\Users\maary\source\repos\Logica de Decisão IF AND ELSE\obj\Debug\netcoreapp3.1\Logica de Decisão IF AND ELSE.dll
+C:\Users\maary\source\repos\Logica de Decisão IF AND ELSE\obj\Debug\netcoreapp3.1\Logica de Decisão IF AND ELSE.pdb
+C:\Users\maary\source\repos\Logica de Decisão IF AND ELSE\obj\Debug\netcoreapp3.1\Logica de Decisão IF AND ELSE.genruntimeconfig.cache

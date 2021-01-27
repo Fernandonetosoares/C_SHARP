@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HJFktQH+O4UrEGxngp9DCKZ6yU+3ygPX4PKzjSefTWGloH6LsuXOzXeP2pDBjW74PoRvl+jsun8tMl4hPdYPOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maary\\source\\repos\\Desafio fiz buzz\\Desafio fiz buzz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maary\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\maary\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

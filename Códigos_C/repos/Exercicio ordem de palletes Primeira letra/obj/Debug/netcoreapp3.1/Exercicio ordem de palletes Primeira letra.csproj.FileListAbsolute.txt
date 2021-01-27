@@ -1,0 +1,13 @@
+C:\Users\maary\source\repos\Exercicio ordem de palletes Primeira letra\bin\Debug\netcoreapp3.1\Exercicio ordem de palletes Primeira letra.exe
+C:\Users\maary\source\repos\Exercicio ordem de palletes Primeira letra\bin\Debug\netcoreapp3.1\Exercicio ordem de palletes Primeira letra.deps.json
+C:\Users\maary\source\repos\Exercicio ordem de palletes Primeira letra\bin\Debug\netcoreapp3.1\Exercicio ordem de palletes Primeira letra.runtimeconfig.json
+C:\Users\maary\source\repos\Exercicio ordem de palletes Primeira letra\bin\Debug\netcoreapp3.1\Exercicio ordem de palletes Primeira letra.runtimeconfig.dev.json
+C:\Users\maary\source\repos\Exercicio ordem de palletes Primeira letra\bin\Debug\netcoreapp3.1\Exercicio ordem de palletes Primeira letra.dll
+C:\Users\maary\source\repos\Exercicio ordem de palletes Primeira letra\bin\Debug\netcoreapp3.1\Exercicio ordem de palletes Primeira letra.pdb
+C:\Users\maary\source\repos\Exercicio ordem de palletes Primeira letra\obj\Debug\netcoreapp3.1\Exercicio ordem de palletes Primeira letra.csprojAssemblyReference.cache
+C:\Users\maary\source\repos\Exercicio ordem de palletes Primeira letra\obj\Debug\netcoreapp3.1\Exercicio ordem de palletes Primeira letra.AssemblyInfoInputs.cache
+C:\Users\maary\source\repos\Exercicio ordem de palletes Primeira letra\obj\Debug\netcoreapp3.1\Exercicio ordem de palletes Primeira letra.AssemblyInfo.cs
+C:\Users\maary\source\repos\Exercicio ordem de palletes Primeira letra\obj\Debug\netcoreapp3.1\Exercicio ordem de palletes Primeira letra.csproj.CoreCompileInputs.cache
+C:\Users\maary\source\repos\Exercicio ordem de palletes Primeira letra\obj\Debug\netcoreapp3.1\Exercicio ordem de palletes Primeira letra.dll
+C:\Users\maary\source\repos\Exercicio ordem de palletes Primeira letra\obj\Debug\netcoreapp3.1\Exercicio ordem de palletes Primeira letra.pdb
+C:\Users\maary\source\repos\Exercicio ordem de palletes Primeira letra\obj\Debug\netcoreapp3.1\Exercicio ordem de palletes Primeira letra.genruntimeconfig.cache

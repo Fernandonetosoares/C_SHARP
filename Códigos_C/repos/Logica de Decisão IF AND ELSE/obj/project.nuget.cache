@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sbrr6i+4q1wIp7mzstThAGp9QlW9JW+9ZHMpwbJd6Ugqf1ljCMjhnYuBRtaJIIe/LpWXcJHMPbh7mNDxA3v0AQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maary\\source\\repos\\Logica de Decisão IF AND ELSE\\Logica de Decisão IF AND ELSE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maary\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\maary\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

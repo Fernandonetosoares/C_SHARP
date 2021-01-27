@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OjUKzkP7nKy56alajta0lccHltm7fJg4IhjVYv7W5ff8bR4vWQ7VfbeIPvgExgxnGaBui/CY/2rccnStT+R40g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maary\\source\\repos\\Conversao cast desafio 1\\Conversao cast desafio 1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maary\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\maary\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

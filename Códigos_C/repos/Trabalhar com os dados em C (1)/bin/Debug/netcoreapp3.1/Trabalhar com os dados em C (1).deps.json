@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Trabalhar com os dados em C (1)/1.0.0": {
+        "runtime": {
+          "Trabalhar com os dados em C (1).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Trabalhar com os dados em C (1)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

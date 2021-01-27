@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "exercicio cara ou coroa/1.0.0": {
+        "runtime": {
+          "exercicio cara ou coroa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exercicio cara ou coroa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

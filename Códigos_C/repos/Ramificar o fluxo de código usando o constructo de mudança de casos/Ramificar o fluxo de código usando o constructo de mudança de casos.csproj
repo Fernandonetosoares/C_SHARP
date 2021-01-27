@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Ramificar_o_fluxo_de_código_usando_o_constructo_de_mudança_de_casos</RootNamespace>
+  </PropertyGroup>
+
+</Project>

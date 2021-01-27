@@ -1,0 +1,13 @@
+C:\Users\maary\source\repos\formatação de cadeia de caracteres\bin\Debug\netcoreapp3.1\formatação de cadeia de caracteres.exe
+C:\Users\maary\source\repos\formatação de cadeia de caracteres\bin\Debug\netcoreapp3.1\formatação de cadeia de caracteres.deps.json
+C:\Users\maary\source\repos\formatação de cadeia de caracteres\bin\Debug\netcoreapp3.1\formatação de cadeia de caracteres.runtimeconfig.json
+C:\Users\maary\source\repos\formatação de cadeia de caracteres\bin\Debug\netcoreapp3.1\formatação de cadeia de caracteres.runtimeconfig.dev.json
+C:\Users\maary\source\repos\formatação de cadeia de caracteres\bin\Debug\netcoreapp3.1\formatação de cadeia de caracteres.dll
+C:\Users\maary\source\repos\formatação de cadeia de caracteres\bin\Debug\netcoreapp3.1\formatação de cadeia de caracteres.pdb
+C:\Users\maary\source\repos\formatação de cadeia de caracteres\obj\Debug\netcoreapp3.1\formatação de cadeia de caracteres.csprojAssemblyReference.cache
+C:\Users\maary\source\repos\formatação de cadeia de caracteres\obj\Debug\netcoreapp3.1\formatação de cadeia de caracteres.AssemblyInfoInputs.cache
+C:\Users\maary\source\repos\formatação de cadeia de caracteres\obj\Debug\netcoreapp3.1\formatação de cadeia de caracteres.AssemblyInfo.cs
+C:\Users\maary\source\repos\formatação de cadeia de caracteres\obj\Debug\netcoreapp3.1\formatação de cadeia de caracteres.csproj.CoreCompileInputs.cache
+C:\Users\maary\source\repos\formatação de cadeia de caracteres\obj\Debug\netcoreapp3.1\formatação de cadeia de caracteres.dll
+C:\Users\maary\source\repos\formatação de cadeia de caracteres\obj\Debug\netcoreapp3.1\formatação de cadeia de caracteres.pdb
+C:\Users\maary\source\repos\formatação de cadeia de caracteres\obj\Debug\netcoreapp3.1\formatação de cadeia de caracteres.genruntimeconfig.cache

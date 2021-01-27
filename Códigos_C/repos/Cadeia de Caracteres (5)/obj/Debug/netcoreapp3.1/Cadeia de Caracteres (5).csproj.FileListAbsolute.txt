@@ -1,0 +1,13 @@
+C:\Users\maary\source\repos\Cadeia de Caracteres (5)\bin\Debug\netcoreapp3.1\Cadeia de Caracteres (5).exe
+C:\Users\maary\source\repos\Cadeia de Caracteres (5)\bin\Debug\netcoreapp3.1\Cadeia de Caracteres (5).deps.json
+C:\Users\maary\source\repos\Cadeia de Caracteres (5)\bin\Debug\netcoreapp3.1\Cadeia de Caracteres (5).runtimeconfig.json
+C:\Users\maary\source\repos\Cadeia de Caracteres (5)\bin\Debug\netcoreapp3.1\Cadeia de Caracteres (5).runtimeconfig.dev.json
+C:\Users\maary\source\repos\Cadeia de Caracteres (5)\bin\Debug\netcoreapp3.1\Cadeia de Caracteres (5).dll
+C:\Users\maary\source\repos\Cadeia de Caracteres (5)\bin\Debug\netcoreapp3.1\Cadeia de Caracteres (5).pdb
+C:\Users\maary\source\repos\Cadeia de Caracteres (5)\obj\Debug\netcoreapp3.1\Cadeia de Caracteres (5).csprojAssemblyReference.cache
+C:\Users\maary\source\repos\Cadeia de Caracteres (5)\obj\Debug\netcoreapp3.1\Cadeia de Caracteres (5).AssemblyInfoInputs.cache
+C:\Users\maary\source\repos\Cadeia de Caracteres (5)\obj\Debug\netcoreapp3.1\Cadeia de Caracteres (5).AssemblyInfo.cs
+C:\Users\maary\source\repos\Cadeia de Caracteres (5)\obj\Debug\netcoreapp3.1\Cadeia de Caracteres (5).csproj.CoreCompileInputs.cache
+C:\Users\maary\source\repos\Cadeia de Caracteres (5)\obj\Debug\netcoreapp3.1\Cadeia de Caracteres (5).dll
+C:\Users\maary\source\repos\Cadeia de Caracteres (5)\obj\Debug\netcoreapp3.1\Cadeia de Caracteres (5).pdb
+C:\Users\maary\source\repos\Cadeia de Caracteres (5)\obj\Debug\netcoreapp3.1\Cadeia de Caracteres (5).genruntimeconfig.cache

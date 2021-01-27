@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "S3q3TGFrbyiptKp3kFb3omLfZC39H6AMrbSbazd4XstcJVYabjUVduCP7aoCAJighUeHFcFZGntqBAXnjClAdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maary\\source\\repos\\Logica em aplicativos\\Logica em aplicativos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maary\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\maary\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

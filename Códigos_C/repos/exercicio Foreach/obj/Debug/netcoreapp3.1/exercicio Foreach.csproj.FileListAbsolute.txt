@@ -1,0 +1,13 @@
+C:\Users\maary\source\repos\exercicio Foreach\bin\Debug\netcoreapp3.1\exercicio Foreach.exe
+C:\Users\maary\source\repos\exercicio Foreach\bin\Debug\netcoreapp3.1\exercicio Foreach.deps.json
+C:\Users\maary\source\repos\exercicio Foreach\bin\Debug\netcoreapp3.1\exercicio Foreach.runtimeconfig.json
+C:\Users\maary\source\repos\exercicio Foreach\bin\Debug\netcoreapp3.1\exercicio Foreach.runtimeconfig.dev.json
+C:\Users\maary\source\repos\exercicio Foreach\bin\Debug\netcoreapp3.1\exercicio Foreach.dll
+C:\Users\maary\source\repos\exercicio Foreach\bin\Debug\netcoreapp3.1\exercicio Foreach.pdb
+C:\Users\maary\source\repos\exercicio Foreach\obj\Debug\netcoreapp3.1\exercicio Foreach.csprojAssemblyReference.cache
+C:\Users\maary\source\repos\exercicio Foreach\obj\Debug\netcoreapp3.1\exercicio Foreach.AssemblyInfoInputs.cache
+C:\Users\maary\source\repos\exercicio Foreach\obj\Debug\netcoreapp3.1\exercicio Foreach.AssemblyInfo.cs
+C:\Users\maary\source\repos\exercicio Foreach\obj\Debug\netcoreapp3.1\exercicio Foreach.csproj.CoreCompileInputs.cache
+C:\Users\maary\source\repos\exercicio Foreach\obj\Debug\netcoreapp3.1\exercicio Foreach.dll
+C:\Users\maary\source\repos\exercicio Foreach\obj\Debug\netcoreapp3.1\exercicio Foreach.pdb
+C:\Users\maary\source\repos\exercicio Foreach\obj\Debug\netcoreapp3.1\exercicio Foreach.genruntimeconfig.cache

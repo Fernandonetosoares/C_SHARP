@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controlar o escopo da variável e a lógica usando blocos de código em C", "Controlar o escopo da variável e a lógica usando blocos de código em C.csproj", "{373223FF-ED12-437D-855D-67956E10EE92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{373223FF-ED12-437D-855D-67956E10EE92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{373223FF-ED12-437D-855D-67956E10EE92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{373223FF-ED12-437D-855D-67956E10EE92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{373223FF-ED12-437D-855D-67956E10EE92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80A77D1B-9970-4424-8EC2-7D32B4521CD2}
+	EndGlobalSection
+EndGlobal

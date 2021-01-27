@@ -1,0 +1,13 @@
+C:\Users\maary\source\repos\Formatar dados alfanuméricos\bin\Debug\netcoreapp3.1\Formatar dados alfanuméricos.exe
+C:\Users\maary\source\repos\Formatar dados alfanuméricos\bin\Debug\netcoreapp3.1\Formatar dados alfanuméricos.deps.json
+C:\Users\maary\source\repos\Formatar dados alfanuméricos\bin\Debug\netcoreapp3.1\Formatar dados alfanuméricos.runtimeconfig.json
+C:\Users\maary\source\repos\Formatar dados alfanuméricos\bin\Debug\netcoreapp3.1\Formatar dados alfanuméricos.runtimeconfig.dev.json
+C:\Users\maary\source\repos\Formatar dados alfanuméricos\bin\Debug\netcoreapp3.1\Formatar dados alfanuméricos.dll
+C:\Users\maary\source\repos\Formatar dados alfanuméricos\bin\Debug\netcoreapp3.1\Formatar dados alfanuméricos.pdb
+C:\Users\maary\source\repos\Formatar dados alfanuméricos\obj\Debug\netcoreapp3.1\Formatar dados alfanuméricos.csprojAssemblyReference.cache
+C:\Users\maary\source\repos\Formatar dados alfanuméricos\obj\Debug\netcoreapp3.1\Formatar dados alfanuméricos.AssemblyInfoInputs.cache
+C:\Users\maary\source\repos\Formatar dados alfanuméricos\obj\Debug\netcoreapp3.1\Formatar dados alfanuméricos.AssemblyInfo.cs
+C:\Users\maary\source\repos\Formatar dados alfanuméricos\obj\Debug\netcoreapp3.1\Formatar dados alfanuméricos.csproj.CoreCompileInputs.cache
+C:\Users\maary\source\repos\Formatar dados alfanuméricos\obj\Debug\netcoreapp3.1\Formatar dados alfanuméricos.dll
+C:\Users\maary\source\repos\Formatar dados alfanuméricos\obj\Debug\netcoreapp3.1\Formatar dados alfanuméricos.pdb
+C:\Users\maary\source\repos\Formatar dados alfanuméricos\obj\Debug\netcoreapp3.1\Formatar dados alfanuméricos.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\maary\source\repos\Split e Join\bin\Debug\netcoreapp3.1\Split e Join.exe
+C:\Users\maary\source\repos\Split e Join\bin\Debug\netcoreapp3.1\Split e Join.deps.json
+C:\Users\maary\source\repos\Split e Join\bin\Debug\netcoreapp3.1\Split e Join.runtimeconfig.json
+C:\Users\maary\source\repos\Split e Join\bin\Debug\netcoreapp3.1\Split e Join.runtimeconfig.dev.json
+C:\Users\maary\source\repos\Split e Join\bin\Debug\netcoreapp3.1\Split e Join.dll
+C:\Users\maary\source\repos\Split e Join\bin\Debug\netcoreapp3.1\Split e Join.pdb
+C:\Users\maary\source\repos\Split e Join\obj\Debug\netcoreapp3.1\Split e Join.csprojAssemblyReference.cache
+C:\Users\maary\source\repos\Split e Join\obj\Debug\netcoreapp3.1\Split e Join.AssemblyInfoInputs.cache
+C:\Users\maary\source\repos\Split e Join\obj\Debug\netcoreapp3.1\Split e Join.AssemblyInfo.cs
+C:\Users\maary\source\repos\Split e Join\obj\Debug\netcoreapp3.1\Split e Join.csproj.CoreCompileInputs.cache
+C:\Users\maary\source\repos\Split e Join\obj\Debug\netcoreapp3.1\Split e Join.dll
+C:\Users\maary\source\repos\Split e Join\obj\Debug\netcoreapp3.1\Split e Join.pdb
+C:\Users\maary\source\repos\Split e Join\obj\Debug\netcoreapp3.1\Split e Join.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\maary\source\repos\Ramificar o fluxo de código usando o constructo de mudança de casos\bin\Debug\netcoreapp3.1\Ramificar o fluxo de código usando o constructo de mudança de casos.exe
+C:\Users\maary\source\repos\Ramificar o fluxo de código usando o constructo de mudança de casos\bin\Debug\netcoreapp3.1\Ramificar o fluxo de código usando o constructo de mudança de casos.deps.json
+C:\Users\maary\source\repos\Ramificar o fluxo de código usando o constructo de mudança de casos\bin\Debug\netcoreapp3.1\Ramificar o fluxo de código usando o constructo de mudança de casos.runtimeconfig.json
+C:\Users\maary\source\repos\Ramificar o fluxo de código usando o constructo de mudança de casos\bin\Debug\netcoreapp3.1\Ramificar o fluxo de código usando o constructo de mudança de casos.runtimeconfig.dev.json
+C:\Users\maary\source\repos\Ramificar o fluxo de código usando o constructo de mudança de casos\bin\Debug\netcoreapp3.1\Ramificar o fluxo de código usando o constructo de mudança de casos.dll
+C:\Users\maary\source\repos\Ramificar o fluxo de código usando o constructo de mudança de casos\bin\Debug\netcoreapp3.1\Ramificar o fluxo de código usando o constructo de mudança de casos.pdb
+C:\Users\maary\source\repos\Ramificar o fluxo de código usando o constructo de mudança de casos\obj\Debug\netcoreapp3.1\Ramificar o fluxo de código usando o constructo de mudança de casos.csprojAssemblyReference.cache
+C:\Users\maary\source\repos\Ramificar o fluxo de código usando o constructo de mudança de casos\obj\Debug\netcoreapp3.1\Ramificar o fluxo de código usando o constructo de mudança de casos.AssemblyInfoInputs.cache
+C:\Users\maary\source\repos\Ramificar o fluxo de código usando o constructo de mudança de casos\obj\Debug\netcoreapp3.1\Ramificar o fluxo de código usando o constructo de mudança de casos.AssemblyInfo.cs
+C:\Users\maary\source\repos\Ramificar o fluxo de código usando o constructo de mudança de casos\obj\Debug\netcoreapp3.1\Ramificar o fluxo de código usando o constructo de mudança de casos.csproj.CoreCompileInputs.cache
+C:\Users\maary\source\repos\Ramificar o fluxo de código usando o constructo de mudança de casos\obj\Debug\netcoreapp3.1\Ramificar o fluxo de código usando o constructo de mudança de casos.dll
+C:\Users\maary\source\repos\Ramificar o fluxo de código usando o constructo de mudança de casos\obj\Debug\netcoreapp3.1\Ramificar o fluxo de código usando o constructo de mudança de casos.pdb
+C:\Users\maary\source\repos\Ramificar o fluxo de código usando o constructo de mudança de casos\obj\Debug\netcoreapp3.1\Ramificar o fluxo de código usando o constructo de mudança de casos.genruntimeconfig.cache

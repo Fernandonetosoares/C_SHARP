@@ -1,0 +1,13 @@
+C:\Users\maary\source\repos\Desafio fiz buzz\bin\Debug\netcoreapp3.1\Desafio fiz buzz.exe
+C:\Users\maary\source\repos\Desafio fiz buzz\bin\Debug\netcoreapp3.1\Desafio fiz buzz.deps.json
+C:\Users\maary\source\repos\Desafio fiz buzz\bin\Debug\netcoreapp3.1\Desafio fiz buzz.runtimeconfig.json
+C:\Users\maary\source\repos\Desafio fiz buzz\bin\Debug\netcoreapp3.1\Desafio fiz buzz.runtimeconfig.dev.json
+C:\Users\maary\source\repos\Desafio fiz buzz\bin\Debug\netcoreapp3.1\Desafio fiz buzz.dll
+C:\Users\maary\source\repos\Desafio fiz buzz\bin\Debug\netcoreapp3.1\Desafio fiz buzz.pdb
+C:\Users\maary\source\repos\Desafio fiz buzz\obj\Debug\netcoreapp3.1\Desafio fiz buzz.csprojAssemblyReference.cache
+C:\Users\maary\source\repos\Desafio fiz buzz\obj\Debug\netcoreapp3.1\Desafio fiz buzz.AssemblyInfoInputs.cache
+C:\Users\maary\source\repos\Desafio fiz buzz\obj\Debug\netcoreapp3.1\Desafio fiz buzz.AssemblyInfo.cs
+C:\Users\maary\source\repos\Desafio fiz buzz\obj\Debug\netcoreapp3.1\Desafio fiz buzz.csproj.CoreCompileInputs.cache
+C:\Users\maary\source\repos\Desafio fiz buzz\obj\Debug\netcoreapp3.1\Desafio fiz buzz.dll
+C:\Users\maary\source\repos\Desafio fiz buzz\obj\Debug\netcoreapp3.1\Desafio fiz buzz.pdb
+C:\Users\maary\source\repos\Desafio fiz buzz\obj\Debug\netcoreapp3.1\Desafio fiz buzz.genruntimeconfig.cache

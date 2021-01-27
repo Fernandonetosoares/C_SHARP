@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dltbwlAL7YSa5Dle2e3RswN0Rn7QoOBqO6pObi8EqwBbZ1GDjzJ1Xh41Xv/75pepygETTMmMBMDr/V/KSsMIlg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maary\\source\\repos\\Exercício IF ELSE\\Exercício IF ELSE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maary\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\maary\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

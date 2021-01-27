@@ -1,0 +1,13 @@
+C:\Users\maary\source\repos\Exercicio remove replace\bin\Debug\netcoreapp3.1\Exercicio remove replace.exe
+C:\Users\maary\source\repos\Exercicio remove replace\bin\Debug\netcoreapp3.1\Exercicio remove replace.deps.json
+C:\Users\maary\source\repos\Exercicio remove replace\bin\Debug\netcoreapp3.1\Exercicio remove replace.runtimeconfig.json
+C:\Users\maary\source\repos\Exercicio remove replace\bin\Debug\netcoreapp3.1\Exercicio remove replace.runtimeconfig.dev.json
+C:\Users\maary\source\repos\Exercicio remove replace\bin\Debug\netcoreapp3.1\Exercicio remove replace.dll
+C:\Users\maary\source\repos\Exercicio remove replace\bin\Debug\netcoreapp3.1\Exercicio remove replace.pdb
+C:\Users\maary\source\repos\Exercicio remove replace\obj\Debug\netcoreapp3.1\Exercicio remove replace.csprojAssemblyReference.cache
+C:\Users\maary\source\repos\Exercicio remove replace\obj\Debug\netcoreapp3.1\Exercicio remove replace.AssemblyInfoInputs.cache
+C:\Users\maary\source\repos\Exercicio remove replace\obj\Debug\netcoreapp3.1\Exercicio remove replace.AssemblyInfo.cs
+C:\Users\maary\source\repos\Exercicio remove replace\obj\Debug\netcoreapp3.1\Exercicio remove replace.csproj.CoreCompileInputs.cache
+C:\Users\maary\source\repos\Exercicio remove replace\obj\Debug\netcoreapp3.1\Exercicio remove replace.dll
+C:\Users\maary\source\repos\Exercicio remove replace\obj\Debug\netcoreapp3.1\Exercicio remove replace.pdb
+C:\Users\maary\source\repos\Exercicio remove replace\obj\Debug\netcoreapp3.1\Exercicio remove replace.genruntimeconfig.cache

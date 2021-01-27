@@ -1,0 +1,13 @@
+C:\Users\maary\source\repos\Exercício IF ELSE\bin\Debug\netcoreapp3.1\Exercício IF ELSE.exe
+C:\Users\maary\source\repos\Exercício IF ELSE\bin\Debug\netcoreapp3.1\Exercício IF ELSE.deps.json
+C:\Users\maary\source\repos\Exercício IF ELSE\bin\Debug\netcoreapp3.1\Exercício IF ELSE.runtimeconfig.json
+C:\Users\maary\source\repos\Exercício IF ELSE\bin\Debug\netcoreapp3.1\Exercício IF ELSE.runtimeconfig.dev.json
+C:\Users\maary\source\repos\Exercício IF ELSE\bin\Debug\netcoreapp3.1\Exercício IF ELSE.dll
+C:\Users\maary\source\repos\Exercício IF ELSE\bin\Debug\netcoreapp3.1\Exercício IF ELSE.pdb
+C:\Users\maary\source\repos\Exercício IF ELSE\obj\Debug\netcoreapp3.1\Exercício IF ELSE.csprojAssemblyReference.cache
+C:\Users\maary\source\repos\Exercício IF ELSE\obj\Debug\netcoreapp3.1\Exercício IF ELSE.AssemblyInfoInputs.cache
+C:\Users\maary\source\repos\Exercício IF ELSE\obj\Debug\netcoreapp3.1\Exercício IF ELSE.AssemblyInfo.cs
+C:\Users\maary\source\repos\Exercício IF ELSE\obj\Debug\netcoreapp3.1\Exercício IF ELSE.csproj.CoreCompileInputs.cache
+C:\Users\maary\source\repos\Exercício IF ELSE\obj\Debug\netcoreapp3.1\Exercício IF ELSE.dll
+C:\Users\maary\source\repos\Exercício IF ELSE\obj\Debug\netcoreapp3.1\Exercício IF ELSE.pdb
+C:\Users\maary\source\repos\Exercício IF ELSE\obj\Debug\netcoreapp3.1\Exercício IF ELSE.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\maary\source\repos\exercicio admin\bin\Debug\netcoreapp3.1\exercicio admin.exe
+C:\Users\maary\source\repos\exercicio admin\bin\Debug\netcoreapp3.1\exercicio admin.deps.json
+C:\Users\maary\source\repos\exercicio admin\bin\Debug\netcoreapp3.1\exercicio admin.runtimeconfig.json
+C:\Users\maary\source\repos\exercicio admin\bin\Debug\netcoreapp3.1\exercicio admin.runtimeconfig.dev.json
+C:\Users\maary\source\repos\exercicio admin\bin\Debug\netcoreapp3.1\exercicio admin.dll
+C:\Users\maary\source\repos\exercicio admin\bin\Debug\netcoreapp3.1\exercicio admin.pdb
+C:\Users\maary\source\repos\exercicio admin\obj\Debug\netcoreapp3.1\exercicio admin.csprojAssemblyReference.cache
+C:\Users\maary\source\repos\exercicio admin\obj\Debug\netcoreapp3.1\exercicio admin.AssemblyInfoInputs.cache
+C:\Users\maary\source\repos\exercicio admin\obj\Debug\netcoreapp3.1\exercicio admin.AssemblyInfo.cs
+C:\Users\maary\source\repos\exercicio admin\obj\Debug\netcoreapp3.1\exercicio admin.csproj.CoreCompileInputs.cache
+C:\Users\maary\source\repos\exercicio admin\obj\Debug\netcoreapp3.1\exercicio admin.dll
+C:\Users\maary\source\repos\exercicio admin\obj\Debug\netcoreapp3.1\exercicio admin.pdb
+C:\Users\maary\source\repos\exercicio admin\obj\Debug\netcoreapp3.1\exercicio admin.genruntimeconfig.cache

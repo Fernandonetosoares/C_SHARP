@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "blI+YIdOQ8Da9qtCCM3ZK0VnHyrwSe2TU+EKVIpCBlDn1iZMMr/Fy14srPkV2an1alLltWEwZT9Ca6/7N9AtXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maary\\source\\repos\\instrução de iteração for\\instrução de iteração for.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maary\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\maary\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

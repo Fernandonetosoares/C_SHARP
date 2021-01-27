@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YeGMQMKnp47/hU2NT+VXRF27p+PLCf+TWoEzFR7kZCUVt/SJ1Kmu7NSSeqSD58/gpYHytXoB6R20afDeNDWy8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maary\\source\\repos\\Controlar o escopo da variável e a lógica usando blocos de código em C\\Controlar o escopo da variável e a lógica usando blocos de código em C.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maary\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\maary\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

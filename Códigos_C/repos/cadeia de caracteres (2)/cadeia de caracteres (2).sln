@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cadeia de caracteres (2)", "cadeia de caracteres (2).csproj", "{88459EDC-1F26-4A47-97BD-1BC0D564BAD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88459EDC-1F26-4A47-97BD-1BC0D564BAD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88459EDC-1F26-4A47-97BD-1BC0D564BAD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88459EDC-1F26-4A47-97BD-1BC0D564BAD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88459EDC-1F26-4A47-97BD-1BC0D564BAD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DBD1A80-6BB4-47AC-9D6A-1F21EADB415E}
+	EndGlobalSection
+EndGlobal

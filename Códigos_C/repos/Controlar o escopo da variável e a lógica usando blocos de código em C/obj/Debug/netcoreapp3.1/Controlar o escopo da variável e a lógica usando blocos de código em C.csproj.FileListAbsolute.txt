@@ -1,0 +1,13 @@
+C:\Users\maary\source\repos\Controlar o escopo da variável e a lógica usando blocos de código em C\bin\Debug\netcoreapp3.1\Controlar o escopo da variável e a lógica usando blocos de código em C.exe
+C:\Users\maary\source\repos\Controlar o escopo da variável e a lógica usando blocos de código em C\bin\Debug\netcoreapp3.1\Controlar o escopo da variável e a lógica usando blocos de código em C.deps.json
+C:\Users\maary\source\repos\Controlar o escopo da variável e a lógica usando blocos de código em C\bin\Debug\netcoreapp3.1\Controlar o escopo da variável e a lógica usando blocos de código em C.runtimeconfig.json
+C:\Users\maary\source\repos\Controlar o escopo da variável e a lógica usando blocos de código em C\bin\Debug\netcoreapp3.1\Controlar o escopo da variável e a lógica usando blocos de código em C.runtimeconfig.dev.json
+C:\Users\maary\source\repos\Controlar o escopo da variável e a lógica usando blocos de código em C\bin\Debug\netcoreapp3.1\Controlar o escopo da variável e a lógica usando blocos de código em C.dll
+C:\Users\maary\source\repos\Controlar o escopo da variável e a lógica usando blocos de código em C\bin\Debug\netcoreapp3.1\Controlar o escopo da variável e a lógica usando blocos de código em C.pdb
+C:\Users\maary\source\repos\Controlar o escopo da variável e a lógica usando blocos de código em C\obj\Debug\netcoreapp3.1\Controlar o escopo da variável e a lógica usando blocos de código em C.csprojAssemblyReference.cache
+C:\Users\maary\source\repos\Controlar o escopo da variável e a lógica usando blocos de código em C\obj\Debug\netcoreapp3.1\Controlar o escopo da variável e a lógica usando blocos de código em C.AssemblyInfoInputs.cache
+C:\Users\maary\source\repos\Controlar o escopo da variável e a lógica usando blocos de código em C\obj\Debug\netcoreapp3.1\Controlar o escopo da variável e a lógica usando blocos de código em C.AssemblyInfo.cs
+C:\Users\maary\source\repos\Controlar o escopo da variável e a lógica usando blocos de código em C\obj\Debug\netcoreapp3.1\Controlar o escopo da variável e a lógica usando blocos de código em C.csproj.CoreCompileInputs.cache
+C:\Users\maary\source\repos\Controlar o escopo da variável e a lógica usando blocos de código em C\obj\Debug\netcoreapp3.1\Controlar o escopo da variável e a lógica usando blocos de código em C.dll
+C:\Users\maary\source\repos\Controlar o escopo da variável e a lógica usando blocos de código em C\obj\Debug\netcoreapp3.1\Controlar o escopo da variável e a lógica usando blocos de código em C.pdb
+C:\Users\maary\source\repos\Controlar o escopo da variável e a lógica usando blocos de código em C\obj\Debug\netcoreapp3.1\Controlar o escopo da variável e a lógica usando blocos de código em C.genruntimeconfig.cache

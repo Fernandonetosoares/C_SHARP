@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nZ6aFR9laraGObe2vPCMXSzV44pe9XU5IDjPesosjLJRXcgJZk/vzwT5osfsOgczZIGpaN0R0khW4KDRTQt8+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maary\\source\\repos\\Matrizes e foereach 2\\Matrizes e foereach 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maary\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\maary\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

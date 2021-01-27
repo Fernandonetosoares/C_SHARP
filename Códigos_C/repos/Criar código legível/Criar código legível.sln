@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Criar código legível", "Criar código legível.csproj", "{6720292D-A09C-4A7D-A01B-14421BBB615D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6720292D-A09C-4A7D-A01B-14421BBB615D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6720292D-A09C-4A7D-A01B-14421BBB615D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6720292D-A09C-4A7D-A01B-14421BBB615D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6720292D-A09C-4A7D-A01B-14421BBB615D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA801E80-ABA6-4206-AF45-3701F6A7961B}
+	EndGlobalSection
+EndGlobal

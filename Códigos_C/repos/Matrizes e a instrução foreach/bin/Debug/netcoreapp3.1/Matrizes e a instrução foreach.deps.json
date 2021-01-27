@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Matrizes e a instrução foreach/1.0.0": {
+        "runtime": {
+          "Matrizes e a instrução foreach.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Matrizes e a instrução foreach/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

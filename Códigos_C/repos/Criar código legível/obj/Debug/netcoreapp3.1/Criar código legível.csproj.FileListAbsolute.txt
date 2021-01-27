@@ -1,0 +1,13 @@
+C:\Users\maary\source\repos\Criar código legível\bin\Debug\netcoreapp3.1\Criar código legível.exe
+C:\Users\maary\source\repos\Criar código legível\bin\Debug\netcoreapp3.1\Criar código legível.deps.json
+C:\Users\maary\source\repos\Criar código legível\bin\Debug\netcoreapp3.1\Criar código legível.runtimeconfig.json
+C:\Users\maary\source\repos\Criar código legível\bin\Debug\netcoreapp3.1\Criar código legível.runtimeconfig.dev.json
+C:\Users\maary\source\repos\Criar código legível\bin\Debug\netcoreapp3.1\Criar código legível.dll
+C:\Users\maary\source\repos\Criar código legível\bin\Debug\netcoreapp3.1\Criar código legível.pdb
+C:\Users\maary\source\repos\Criar código legível\obj\Debug\netcoreapp3.1\Criar código legível.csprojAssemblyReference.cache
+C:\Users\maary\source\repos\Criar código legível\obj\Debug\netcoreapp3.1\Criar código legível.AssemblyInfoInputs.cache
+C:\Users\maary\source\repos\Criar código legível\obj\Debug\netcoreapp3.1\Criar código legível.AssemblyInfo.cs
+C:\Users\maary\source\repos\Criar código legível\obj\Debug\netcoreapp3.1\Criar código legível.csproj.CoreCompileInputs.cache
+C:\Users\maary\source\repos\Criar código legível\obj\Debug\netcoreapp3.1\Criar código legível.dll
+C:\Users\maary\source\repos\Criar código legível\obj\Debug\netcoreapp3.1\Criar código legível.pdb
+C:\Users\maary\source\repos\Criar código legível\obj\Debug\netcoreapp3.1\Criar código legível.genruntimeconfig.cache

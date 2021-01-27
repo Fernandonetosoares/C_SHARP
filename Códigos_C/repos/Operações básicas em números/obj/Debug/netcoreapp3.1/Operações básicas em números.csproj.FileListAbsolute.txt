@@ -1,0 +1,13 @@
+C:\Users\maary\source\repos\Operações básicas em números\bin\Debug\netcoreapp3.1\Operações básicas em números.exe
+C:\Users\maary\source\repos\Operações básicas em números\bin\Debug\netcoreapp3.1\Operações básicas em números.deps.json
+C:\Users\maary\source\repos\Operações básicas em números\bin\Debug\netcoreapp3.1\Operações básicas em números.runtimeconfig.json
+C:\Users\maary\source\repos\Operações básicas em números\bin\Debug\netcoreapp3.1\Operações básicas em números.runtimeconfig.dev.json
+C:\Users\maary\source\repos\Operações básicas em números\bin\Debug\netcoreapp3.1\Operações básicas em números.dll
+C:\Users\maary\source\repos\Operações básicas em números\bin\Debug\netcoreapp3.1\Operações básicas em números.pdb
+C:\Users\maary\source\repos\Operações básicas em números\obj\Debug\netcoreapp3.1\Operações básicas em números.csprojAssemblyReference.cache
+C:\Users\maary\source\repos\Operações básicas em números\obj\Debug\netcoreapp3.1\Operações básicas em números.AssemblyInfoInputs.cache
+C:\Users\maary\source\repos\Operações básicas em números\obj\Debug\netcoreapp3.1\Operações básicas em números.AssemblyInfo.cs
+C:\Users\maary\source\repos\Operações básicas em números\obj\Debug\netcoreapp3.1\Operações básicas em números.csproj.CoreCompileInputs.cache
+C:\Users\maary\source\repos\Operações básicas em números\obj\Debug\netcoreapp3.1\Operações básicas em números.dll
+C:\Users\maary\source\repos\Operações básicas em números\obj\Debug\netcoreapp3.1\Operações básicas em números.pdb
+C:\Users\maary\source\repos\Operações básicas em números\obj\Debug\netcoreapp3.1\Operações básicas em números.genruntimeconfig.cache

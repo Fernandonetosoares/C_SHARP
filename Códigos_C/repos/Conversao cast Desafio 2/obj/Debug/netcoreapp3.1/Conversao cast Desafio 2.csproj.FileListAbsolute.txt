@@ -1,0 +1,12 @@
+C:\Users\maary\source\repos\Conversao cast Desafio 2\bin\Debug\netcoreapp3.1\Conversao cast Desafio 2.exe
+C:\Users\maary\source\repos\Conversao cast Desafio 2\bin\Debug\netcoreapp3.1\Conversao cast Desafio 2.deps.json
+C:\Users\maary\source\repos\Conversao cast Desafio 2\bin\Debug\netcoreapp3.1\Conversao cast Desafio 2.runtimeconfig.json
+C:\Users\maary\source\repos\Conversao cast Desafio 2\bin\Debug\netcoreapp3.1\Conversao cast Desafio 2.runtimeconfig.dev.json
+C:\Users\maary\source\repos\Conversao cast Desafio 2\bin\Debug\netcoreapp3.1\Conversao cast Desafio 2.dll
+C:\Users\maary\source\repos\Conversao cast Desafio 2\bin\Debug\netcoreapp3.1\Conversao cast Desafio 2.pdb
+C:\Users\maary\source\repos\Conversao cast Desafio 2\obj\Debug\netcoreapp3.1\Conversao cast Desafio 2.AssemblyInfoInputs.cache
+C:\Users\maary\source\repos\Conversao cast Desafio 2\obj\Debug\netcoreapp3.1\Conversao cast Desafio 2.AssemblyInfo.cs
+C:\Users\maary\source\repos\Conversao cast Desafio 2\obj\Debug\netcoreapp3.1\Conversao cast Desafio 2.csproj.CoreCompileInputs.cache
+C:\Users\maary\source\repos\Conversao cast Desafio 2\obj\Debug\netcoreapp3.1\Conversao cast Desafio 2.dll
+C:\Users\maary\source\repos\Conversao cast Desafio 2\obj\Debug\netcoreapp3.1\Conversao cast Desafio 2.pdb
+C:\Users\maary\source\repos\Conversao cast Desafio 2\obj\Debug\netcoreapp3.1\Conversao cast Desafio 2.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\maary\source\repos\Matrizes e a instrução foreach\bin\Debug\netcoreapp3.1\Matrizes e a instrução foreach.exe
+C:\Users\maary\source\repos\Matrizes e a instrução foreach\bin\Debug\netcoreapp3.1\Matrizes e a instrução foreach.deps.json
+C:\Users\maary\source\repos\Matrizes e a instrução foreach\bin\Debug\netcoreapp3.1\Matrizes e a instrução foreach.runtimeconfig.json
+C:\Users\maary\source\repos\Matrizes e a instrução foreach\bin\Debug\netcoreapp3.1\Matrizes e a instrução foreach.runtimeconfig.dev.json
+C:\Users\maary\source\repos\Matrizes e a instrução foreach\bin\Debug\netcoreapp3.1\Matrizes e a instrução foreach.dll
+C:\Users\maary\source\repos\Matrizes e a instrução foreach\bin\Debug\netcoreapp3.1\Matrizes e a instrução foreach.pdb
+C:\Users\maary\source\repos\Matrizes e a instrução foreach\obj\Debug\netcoreapp3.1\Matrizes e a instrução foreach.csprojAssemblyReference.cache
+C:\Users\maary\source\repos\Matrizes e a instrução foreach\obj\Debug\netcoreapp3.1\Matrizes e a instrução foreach.AssemblyInfoInputs.cache
+C:\Users\maary\source\repos\Matrizes e a instrução foreach\obj\Debug\netcoreapp3.1\Matrizes e a instrução foreach.AssemblyInfo.cs
+C:\Users\maary\source\repos\Matrizes e a instrução foreach\obj\Debug\netcoreapp3.1\Matrizes e a instrução foreach.csproj.CoreCompileInputs.cache
+C:\Users\maary\source\repos\Matrizes e a instrução foreach\obj\Debug\netcoreapp3.1\Matrizes e a instrução foreach.dll
+C:\Users\maary\source\repos\Matrizes e a instrução foreach\obj\Debug\netcoreapp3.1\Matrizes e a instrução foreach.pdb
+C:\Users\maary\source\repos\Matrizes e a instrução foreach\obj\Debug\netcoreapp3.1\Matrizes e a instrução foreach.genruntimeconfig.cache

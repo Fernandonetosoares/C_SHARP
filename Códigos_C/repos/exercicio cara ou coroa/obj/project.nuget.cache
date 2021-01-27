@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "F04PggvwyBAafD9oUl0D7LvAg8nkm2URVrD66gfPGmHIUuHn8RweuXt1kTdvXYpHzzPQ4EFa2+qrc/oTNpeYgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maary\\source\\repos\\exercicio cara ou coroa\\exercicio cara ou coroa.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maary\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\maary\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

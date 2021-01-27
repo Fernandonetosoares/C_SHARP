@@ -1,0 +1,13 @@
+C:\Users\maary\source\repos\Exercicio while heroi e vilao\bin\Debug\netcoreapp3.1\Exercicio while heroi e vilao.exe
+C:\Users\maary\source\repos\Exercicio while heroi e vilao\bin\Debug\netcoreapp3.1\Exercicio while heroi e vilao.deps.json
+C:\Users\maary\source\repos\Exercicio while heroi e vilao\bin\Debug\netcoreapp3.1\Exercicio while heroi e vilao.runtimeconfig.json
+C:\Users\maary\source\repos\Exercicio while heroi e vilao\bin\Debug\netcoreapp3.1\Exercicio while heroi e vilao.runtimeconfig.dev.json
+C:\Users\maary\source\repos\Exercicio while heroi e vilao\bin\Debug\netcoreapp3.1\Exercicio while heroi e vilao.dll
+C:\Users\maary\source\repos\Exercicio while heroi e vilao\bin\Debug\netcoreapp3.1\Exercicio while heroi e vilao.pdb
+C:\Users\maary\source\repos\Exercicio while heroi e vilao\obj\Debug\netcoreapp3.1\Exercicio while heroi e vilao.csprojAssemblyReference.cache
+C:\Users\maary\source\repos\Exercicio while heroi e vilao\obj\Debug\netcoreapp3.1\Exercicio while heroi e vilao.AssemblyInfoInputs.cache
+C:\Users\maary\source\repos\Exercicio while heroi e vilao\obj\Debug\netcoreapp3.1\Exercicio while heroi e vilao.AssemblyInfo.cs
+C:\Users\maary\source\repos\Exercicio while heroi e vilao\obj\Debug\netcoreapp3.1\Exercicio while heroi e vilao.csproj.CoreCompileInputs.cache
+C:\Users\maary\source\repos\Exercicio while heroi e vilao\obj\Debug\netcoreapp3.1\Exercicio while heroi e vilao.dll
+C:\Users\maary\source\repos\Exercicio while heroi e vilao\obj\Debug\netcoreapp3.1\Exercicio while heroi e vilao.pdb
+C:\Users\maary\source\repos\Exercicio while heroi e vilao\obj\Debug\netcoreapp3.1\Exercicio while heroi e vilao.genruntimeconfig.cache

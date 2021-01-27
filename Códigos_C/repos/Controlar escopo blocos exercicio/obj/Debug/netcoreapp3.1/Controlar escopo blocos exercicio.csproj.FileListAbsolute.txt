@@ -1,0 +1,13 @@
+C:\Users\maary\source\repos\Controlar escopo blocos exercicio\obj\Debug\netcoreapp3.1\Controlar escopo blocos exercicio.csprojAssemblyReference.cache
+C:\Users\maary\source\repos\Controlar escopo blocos exercicio\obj\Debug\netcoreapp3.1\Controlar escopo blocos exercicio.AssemblyInfoInputs.cache
+C:\Users\maary\source\repos\Controlar escopo blocos exercicio\obj\Debug\netcoreapp3.1\Controlar escopo blocos exercicio.AssemblyInfo.cs
+C:\Users\maary\source\repos\Controlar escopo blocos exercicio\obj\Debug\netcoreapp3.1\Controlar escopo blocos exercicio.csproj.CoreCompileInputs.cache
+C:\Users\maary\source\repos\Controlar escopo blocos exercicio\bin\Debug\netcoreapp3.1\Controlar escopo blocos exercicio.exe
+C:\Users\maary\source\repos\Controlar escopo blocos exercicio\bin\Debug\netcoreapp3.1\Controlar escopo blocos exercicio.deps.json
+C:\Users\maary\source\repos\Controlar escopo blocos exercicio\bin\Debug\netcoreapp3.1\Controlar escopo blocos exercicio.runtimeconfig.json
+C:\Users\maary\source\repos\Controlar escopo blocos exercicio\bin\Debug\netcoreapp3.1\Controlar escopo blocos exercicio.runtimeconfig.dev.json
+C:\Users\maary\source\repos\Controlar escopo blocos exercicio\bin\Debug\netcoreapp3.1\Controlar escopo blocos exercicio.dll
+C:\Users\maary\source\repos\Controlar escopo blocos exercicio\bin\Debug\netcoreapp3.1\Controlar escopo blocos exercicio.pdb
+C:\Users\maary\source\repos\Controlar escopo blocos exercicio\obj\Debug\netcoreapp3.1\Controlar escopo blocos exercicio.dll
+C:\Users\maary\source\repos\Controlar escopo blocos exercicio\obj\Debug\netcoreapp3.1\Controlar escopo blocos exercicio.pdb
+C:\Users\maary\source\repos\Controlar escopo blocos exercicio\obj\Debug\netcoreapp3.1\Controlar escopo blocos exercicio.genruntimeconfig.cache

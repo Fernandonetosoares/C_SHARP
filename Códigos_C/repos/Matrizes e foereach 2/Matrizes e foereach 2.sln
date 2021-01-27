@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrizes e foereach 2", "Matrizes e foereach 2.csproj", "{DBE12756-83DE-4C68-AD2C-0A67A2B5B45F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBE12756-83DE-4C68-AD2C-0A67A2B5B45F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBE12756-83DE-4C68-AD2C-0A67A2B5B45F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBE12756-83DE-4C68-AD2C-0A67A2B5B45F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBE12756-83DE-4C68-AD2C-0A67A2B5B45F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C52A914-7533-44EB-81D5-D02F42049A5A}
+	EndGlobalSection
+EndGlobal

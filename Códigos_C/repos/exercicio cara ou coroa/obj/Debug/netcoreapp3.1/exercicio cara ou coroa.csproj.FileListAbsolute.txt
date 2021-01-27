@@ -1,0 +1,13 @@
+C:\Users\maary\source\repos\exercicio cara ou coroa\bin\Debug\netcoreapp3.1\exercicio cara ou coroa.exe
+C:\Users\maary\source\repos\exercicio cara ou coroa\bin\Debug\netcoreapp3.1\exercicio cara ou coroa.deps.json
+C:\Users\maary\source\repos\exercicio cara ou coroa\bin\Debug\netcoreapp3.1\exercicio cara ou coroa.runtimeconfig.json
+C:\Users\maary\source\repos\exercicio cara ou coroa\bin\Debug\netcoreapp3.1\exercicio cara ou coroa.runtimeconfig.dev.json
+C:\Users\maary\source\repos\exercicio cara ou coroa\bin\Debug\netcoreapp3.1\exercicio cara ou coroa.dll
+C:\Users\maary\source\repos\exercicio cara ou coroa\bin\Debug\netcoreapp3.1\exercicio cara ou coroa.pdb
+C:\Users\maary\source\repos\exercicio cara ou coroa\obj\Debug\netcoreapp3.1\exercicio cara ou coroa.csprojAssemblyReference.cache
+C:\Users\maary\source\repos\exercicio cara ou coroa\obj\Debug\netcoreapp3.1\exercicio cara ou coroa.AssemblyInfoInputs.cache
+C:\Users\maary\source\repos\exercicio cara ou coroa\obj\Debug\netcoreapp3.1\exercicio cara ou coroa.AssemblyInfo.cs
+C:\Users\maary\source\repos\exercicio cara ou coroa\obj\Debug\netcoreapp3.1\exercicio cara ou coroa.csproj.CoreCompileInputs.cache
+C:\Users\maary\source\repos\exercicio cara ou coroa\obj\Debug\netcoreapp3.1\exercicio cara ou coroa.dll
+C:\Users\maary\source\repos\exercicio cara ou coroa\obj\Debug\netcoreapp3.1\exercicio cara ou coroa.pdb
+C:\Users\maary\source\repos\exercicio cara ou coroa\obj\Debug\netcoreapp3.1\exercicio cara ou coroa.genruntimeconfig.cache

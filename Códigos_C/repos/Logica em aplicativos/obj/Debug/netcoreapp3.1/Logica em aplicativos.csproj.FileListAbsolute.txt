@@ -1,0 +1,13 @@
+C:\Users\maary\source\repos\Logica em aplicativos\obj\Debug\netcoreapp3.1\Logica em aplicativos.csprojAssemblyReference.cache
+C:\Users\maary\source\repos\Logica em aplicativos\obj\Debug\netcoreapp3.1\Logica em aplicativos.AssemblyInfoInputs.cache
+C:\Users\maary\source\repos\Logica em aplicativos\obj\Debug\netcoreapp3.1\Logica em aplicativos.AssemblyInfo.cs
+C:\Users\maary\source\repos\Logica em aplicativos\obj\Debug\netcoreapp3.1\Logica em aplicativos.csproj.CoreCompileInputs.cache
+C:\Users\maary\source\repos\Logica em aplicativos\bin\Debug\netcoreapp3.1\Logica em aplicativos.exe
+C:\Users\maary\source\repos\Logica em aplicativos\bin\Debug\netcoreapp3.1\Logica em aplicativos.deps.json
+C:\Users\maary\source\repos\Logica em aplicativos\bin\Debug\netcoreapp3.1\Logica em aplicativos.runtimeconfig.json
+C:\Users\maary\source\repos\Logica em aplicativos\bin\Debug\netcoreapp3.1\Logica em aplicativos.runtimeconfig.dev.json
+C:\Users\maary\source\repos\Logica em aplicativos\bin\Debug\netcoreapp3.1\Logica em aplicativos.dll
+C:\Users\maary\source\repos\Logica em aplicativos\bin\Debug\netcoreapp3.1\Logica em aplicativos.pdb
+C:\Users\maary\source\repos\Logica em aplicativos\obj\Debug\netcoreapp3.1\Logica em aplicativos.dll
+C:\Users\maary\source\repos\Logica em aplicativos\obj\Debug\netcoreapp3.1\Logica em aplicativos.pdb
+C:\Users\maary\source\repos\Logica em aplicativos\obj\Debug\netcoreapp3.1\Logica em aplicativos.genruntimeconfig.cache

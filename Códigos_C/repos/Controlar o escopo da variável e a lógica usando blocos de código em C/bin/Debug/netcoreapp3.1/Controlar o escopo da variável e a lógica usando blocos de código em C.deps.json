@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Controlar o escopo da variável e a lógica usando blocos de código em C/1.0.0": {
+        "runtime": {
+          "Controlar o escopo da variável e a lógica usando blocos de código em C.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Controlar o escopo da variável e a lógica usando blocos de código em C/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

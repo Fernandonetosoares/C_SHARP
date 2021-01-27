@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ramificar o fluxo de código usando o constructo de mudança de casos/1.0.0": {
+        "runtime": {
+          "Ramificar o fluxo de código usando o constructo de mudança de casos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ramificar o fluxo de código usando o constructo de mudança de casos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

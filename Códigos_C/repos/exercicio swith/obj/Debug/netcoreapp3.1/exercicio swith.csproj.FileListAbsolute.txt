@@ -1,0 +1,13 @@
+C:\Users\maary\source\repos\exercicio swith\obj\Debug\netcoreapp3.1\exercicio swith.csprojAssemblyReference.cache
+C:\Users\maary\source\repos\exercicio swith\obj\Debug\netcoreapp3.1\exercicio swith.AssemblyInfoInputs.cache
+C:\Users\maary\source\repos\exercicio swith\obj\Debug\netcoreapp3.1\exercicio swith.AssemblyInfo.cs
+C:\Users\maary\source\repos\exercicio swith\obj\Debug\netcoreapp3.1\exercicio swith.csproj.CoreCompileInputs.cache
+C:\Users\maary\source\repos\exercicio swith\bin\Debug\netcoreapp3.1\exercicio swith.exe
+C:\Users\maary\source\repos\exercicio swith\bin\Debug\netcoreapp3.1\exercicio swith.deps.json
+C:\Users\maary\source\repos\exercicio swith\bin\Debug\netcoreapp3.1\exercicio swith.runtimeconfig.json
+C:\Users\maary\source\repos\exercicio swith\bin\Debug\netcoreapp3.1\exercicio swith.runtimeconfig.dev.json
+C:\Users\maary\source\repos\exercicio swith\bin\Debug\netcoreapp3.1\exercicio swith.dll
+C:\Users\maary\source\repos\exercicio swith\bin\Debug\netcoreapp3.1\exercicio swith.pdb
+C:\Users\maary\source\repos\exercicio swith\obj\Debug\netcoreapp3.1\exercicio swith.dll
+C:\Users\maary\source\repos\exercicio swith\obj\Debug\netcoreapp3.1\exercicio swith.pdb
+C:\Users\maary\source\repos\exercicio swith\obj\Debug\netcoreapp3.1\exercicio swith.genruntimeconfig.cache

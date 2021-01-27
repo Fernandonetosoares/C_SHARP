@@ -1,0 +1,13 @@
+C:\Users\maary\source\repos\conversão cast\bin\Debug\netcoreapp3.1\conversão cast.exe
+C:\Users\maary\source\repos\conversão cast\bin\Debug\netcoreapp3.1\conversão cast.deps.json
+C:\Users\maary\source\repos\conversão cast\bin\Debug\netcoreapp3.1\conversão cast.runtimeconfig.json
+C:\Users\maary\source\repos\conversão cast\bin\Debug\netcoreapp3.1\conversão cast.runtimeconfig.dev.json
+C:\Users\maary\source\repos\conversão cast\bin\Debug\netcoreapp3.1\conversão cast.dll
+C:\Users\maary\source\repos\conversão cast\bin\Debug\netcoreapp3.1\conversão cast.pdb
+C:\Users\maary\source\repos\conversão cast\obj\Debug\netcoreapp3.1\conversão cast.csprojAssemblyReference.cache
+C:\Users\maary\source\repos\conversão cast\obj\Debug\netcoreapp3.1\conversão cast.AssemblyInfoInputs.cache
+C:\Users\maary\source\repos\conversão cast\obj\Debug\netcoreapp3.1\conversão cast.AssemblyInfo.cs
+C:\Users\maary\source\repos\conversão cast\obj\Debug\netcoreapp3.1\conversão cast.csproj.CoreCompileInputs.cache
+C:\Users\maary\source\repos\conversão cast\obj\Debug\netcoreapp3.1\conversão cast.dll
+C:\Users\maary\source\repos\conversão cast\obj\Debug\netcoreapp3.1\conversão cast.pdb
+C:\Users\maary\source\repos\conversão cast\obj\Debug\netcoreapp3.1\conversão cast.genruntimeconfig.cache

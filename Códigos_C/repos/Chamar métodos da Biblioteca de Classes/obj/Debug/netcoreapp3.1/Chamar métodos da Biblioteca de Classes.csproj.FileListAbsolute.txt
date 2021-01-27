@@ -1,0 +1,13 @@
+C:\Users\maary\source\repos\Chamar métodos da Biblioteca de Classes\bin\Debug\netcoreapp3.1\Chamar métodos da Biblioteca de Classes.exe
+C:\Users\maary\source\repos\Chamar métodos da Biblioteca de Classes\bin\Debug\netcoreapp3.1\Chamar métodos da Biblioteca de Classes.deps.json
+C:\Users\maary\source\repos\Chamar métodos da Biblioteca de Classes\bin\Debug\netcoreapp3.1\Chamar métodos da Biblioteca de Classes.runtimeconfig.json
+C:\Users\maary\source\repos\Chamar métodos da Biblioteca de Classes\bin\Debug\netcoreapp3.1\Chamar métodos da Biblioteca de Classes.runtimeconfig.dev.json
+C:\Users\maary\source\repos\Chamar métodos da Biblioteca de Classes\bin\Debug\netcoreapp3.1\Chamar métodos da Biblioteca de Classes.dll
+C:\Users\maary\source\repos\Chamar métodos da Biblioteca de Classes\bin\Debug\netcoreapp3.1\Chamar métodos da Biblioteca de Classes.pdb
+C:\Users\maary\source\repos\Chamar métodos da Biblioteca de Classes\obj\Debug\netcoreapp3.1\Chamar métodos da Biblioteca de Classes.csprojAssemblyReference.cache
+C:\Users\maary\source\repos\Chamar métodos da Biblioteca de Classes\obj\Debug\netcoreapp3.1\Chamar métodos da Biblioteca de Classes.AssemblyInfoInputs.cache
+C:\Users\maary\source\repos\Chamar métodos da Biblioteca de Classes\obj\Debug\netcoreapp3.1\Chamar métodos da Biblioteca de Classes.AssemblyInfo.cs
+C:\Users\maary\source\repos\Chamar métodos da Biblioteca de Classes\obj\Debug\netcoreapp3.1\Chamar métodos da Biblioteca de Classes.csproj.CoreCompileInputs.cache
+C:\Users\maary\source\repos\Chamar métodos da Biblioteca de Classes\obj\Debug\netcoreapp3.1\Chamar métodos da Biblioteca de Classes.dll
+C:\Users\maary\source\repos\Chamar métodos da Biblioteca de Classes\obj\Debug\netcoreapp3.1\Chamar métodos da Biblioteca de Classes.pdb
+C:\Users\maary\source\repos\Chamar métodos da Biblioteca de Classes\obj\Debug\netcoreapp3.1\Chamar métodos da Biblioteca de Classes.genruntimeconfig.cache

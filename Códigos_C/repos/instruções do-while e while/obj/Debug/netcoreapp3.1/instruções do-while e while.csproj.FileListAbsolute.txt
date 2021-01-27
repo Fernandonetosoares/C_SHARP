@@ -1,0 +1,13 @@
+C:\Users\maary\source\repos\instruções do-while e while\bin\Debug\netcoreapp3.1\instruções do-while e while.exe
+C:\Users\maary\source\repos\instruções do-while e while\bin\Debug\netcoreapp3.1\instruções do-while e while.deps.json
+C:\Users\maary\source\repos\instruções do-while e while\bin\Debug\netcoreapp3.1\instruções do-while e while.runtimeconfig.json
+C:\Users\maary\source\repos\instruções do-while e while\bin\Debug\netcoreapp3.1\instruções do-while e while.runtimeconfig.dev.json
+C:\Users\maary\source\repos\instruções do-while e while\bin\Debug\netcoreapp3.1\instruções do-while e while.dll
+C:\Users\maary\source\repos\instruções do-while e while\bin\Debug\netcoreapp3.1\instruções do-while e while.pdb
+C:\Users\maary\source\repos\instruções do-while e while\obj\Debug\netcoreapp3.1\instruções do-while e while.csprojAssemblyReference.cache
+C:\Users\maary\source\repos\instruções do-while e while\obj\Debug\netcoreapp3.1\instruções do-while e while.AssemblyInfoInputs.cache
+C:\Users\maary\source\repos\instruções do-while e while\obj\Debug\netcoreapp3.1\instruções do-while e while.AssemblyInfo.cs
+C:\Users\maary\source\repos\instruções do-while e while\obj\Debug\netcoreapp3.1\instruções do-while e while.csproj.CoreCompileInputs.cache
+C:\Users\maary\source\repos\instruções do-while e while\obj\Debug\netcoreapp3.1\instruções do-while e while.dll
+C:\Users\maary\source\repos\instruções do-while e while\obj\Debug\netcoreapp3.1\instruções do-while e while.pdb
+C:\Users\maary\source\repos\instruções do-while e while\obj\Debug\netcoreapp3.1\instruções do-while e while.genruntimeconfig.cache

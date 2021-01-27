@@ -11,3 +11,16 @@ C:\Users\maary\source\repos\Aprendizado C Sharp\obj\Debug\netcoreapp3.1\Aprendiz
 C:\Users\maary\source\repos\Aprendizado C Sharp\obj\Debug\netcoreapp3.1\Aprendizado C Sharp.dll
 C:\Users\maary\source\repos\Aprendizado C Sharp\obj\Debug\netcoreapp3.1\Aprendizado C Sharp.pdb
 C:\Users\maary\source\repos\Aprendizado C Sharp\obj\Debug\netcoreapp3.1\Aprendizado C Sharp.genruntimeconfig.cache
+C:\Users\maary\Documents\MeusProjetos\C_SHARP\Códigos_C\repos\Aprendizado C Sharp\bin\Debug\netcoreapp3.1\Aprendizado C Sharp.exe
+C:\Users\maary\Documents\MeusProjetos\C_SHARP\Códigos_C\repos\Aprendizado C Sharp\bin\Debug\netcoreapp3.1\Aprendizado C Sharp.deps.json
+C:\Users\maary\Documents\MeusProjetos\C_SHARP\Códigos_C\repos\Aprendizado C Sharp\bin\Debug\netcoreapp3.1\Aprendizado C Sharp.runtimeconfig.json
+C:\Users\maary\Documents\MeusProjetos\C_SHARP\Códigos_C\repos\Aprendizado C Sharp\bin\Debug\netcoreapp3.1\Aprendizado C Sharp.runtimeconfig.dev.json
+C:\Users\maary\Documents\MeusProjetos\C_SHARP\Códigos_C\repos\Aprendizado C Sharp\bin\Debug\netcoreapp3.1\Aprendizado C Sharp.dll
+C:\Users\maary\Documents\MeusProjetos\C_SHARP\Códigos_C\repos\Aprendizado C Sharp\bin\Debug\netcoreapp3.1\Aprendizado C Sharp.pdb
+C:\Users\maary\Documents\MeusProjetos\C_SHARP\Códigos_C\repos\Aprendizado C Sharp\obj\Debug\netcoreapp3.1\Aprendizado C Sharp.csprojAssemblyReference.cache
+C:\Users\maary\Documents\MeusProjetos\C_SHARP\Códigos_C\repos\Aprendizado C Sharp\obj\Debug\netcoreapp3.1\Aprendizado C Sharp.AssemblyInfoInputs.cache
+C:\Users\maary\Documents\MeusProjetos\C_SHARP\Códigos_C\repos\Aprendizado C Sharp\obj\Debug\netcoreapp3.1\Aprendizado C Sharp.AssemblyInfo.cs
+C:\Users\maary\Documents\MeusProjetos\C_SHARP\Códigos_C\repos\Aprendizado C Sharp\obj\Debug\netcoreapp3.1\Aprendizado C Sharp.csproj.CoreCompileInputs.cache
+C:\Users\maary\Documents\MeusProjetos\C_SHARP\Códigos_C\repos\Aprendizado C Sharp\obj\Debug\netcoreapp3.1\Aprendizado C Sharp.dll
+C:\Users\maary\Documents\MeusProjetos\C_SHARP\Códigos_C\repos\Aprendizado C Sharp\obj\Debug\netcoreapp3.1\Aprendizado C Sharp.pdb
+C:\Users\maary\Documents\MeusProjetos\C_SHARP\Códigos_C\repos\Aprendizado C Sharp\obj\Debug\netcoreapp3.1\Aprendizado C Sharp.genruntimeconfig.cache

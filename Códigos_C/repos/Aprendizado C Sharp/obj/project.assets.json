@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maary\\source\\repos\\Aprendizado C Sharp\\Aprendizado C Sharp.csproj",
+      "projectUniqueName": "C:\\Users\\maary\\Documents\\MeusProjetos\\C_SHARP\\Códigos_C\\repos\\Aprendizado C Sharp\\Aprendizado C Sharp.csproj",
       "projectName": "Aprendizado C Sharp",
-      "projectPath": "C:\\Users\\maary\\source\\repos\\Aprendizado C Sharp\\Aprendizado C Sharp.csproj",
+      "projectPath": "C:\\Users\\maary\\Documents\\MeusProjetos\\C_SHARP\\Códigos_C\\repos\\Aprendizado C Sharp\\Aprendizado C Sharp.csproj",
       "packagesPath": "C:\\Users\\maary\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maary\\source\\repos\\Aprendizado C Sharp\\obj\\",
+      "outputPath": "C:\\Users\\maary\\Documents\\MeusProjetos\\C_SHARP\\Códigos_C\\repos\\Aprendizado C Sharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\maary\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,12 +55,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.11, 3.1.11]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
